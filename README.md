@@ -91,7 +91,7 @@ g++ main.cpp -o ecosystem -framework OpenGL -framework GLUT
 
 ---
 
-### 📸 Screenshots (Optional)
+### 📸 Screenshots 
 ![image](https://github.com/user-attachments/assets/43ba6c42-ad54-4613-9ebb-9b38485827e1)
 ![image](https://github.com/user-attachments/assets/29eef998-5566-4e8f-b24c-d11601d567b6)
 ![image](https://github.com/user-attachments/assets/820a2325-f216-4b2f-ade9-ee2c53f04a54)
@@ -106,7 +106,7 @@ g++ main.cpp -o ecosystem -framework OpenGL -framework GLUT
 > **PROTTOY SAHA**
 > \[AIUB]
 > Department of Computer Science
-> Year: 2023
+> Acomplihed Year: 2023
 
 ---
 
