@@ -92,7 +92,9 @@ g++ main.cpp -o ecosystem -framework OpenGL -framework GLUT
 ---
 
 ### 📸 Screenshots 
-![image](https://github.com/user-attachments/assets/43ba6c42-ad54-4613-9ebb-9b38485827e1)
+**Day TIme Scenario**
+![image](https://github.com/user-attachments/assets/efcf96bd-bcac-45f4-8005-22b334051357)
+**Night Time Scenario**
 ![image](https://github.com/user-attachments/assets/29eef998-5566-4e8f-b24c-d11601d567b6)
 ![image](https://github.com/user-attachments/assets/820a2325-f216-4b2f-ade9-ee2c53f04a54)
 
